@@ -1,4 +1,4 @@
 qaac
 ====
 
-Qt Arduino Ambilight Clone, not related to the Quicktime AAC Encoder
+Qt Arduino Ambilight Clone
